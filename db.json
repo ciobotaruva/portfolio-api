@@ -1,14 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "home": [
+    {
+      "id": 1,
+      "name": "Ciobotaru",
+      "last-name": "Valentin - Adrian",
+      "job": "Web Developer",
+      "description": "I'm based in Brasov, Romania specializing in building and designing websites, one page applications."
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "about": [
+    {
+      "id": 2,
+      "page-title": "About",
+      "tech": "JavaScript(ES6)",
+      "tech-second": "React",
+      "tech-third": "Html",
+      "tech-fourth": "CSS",
+      "tech-fifth": "Github",
+      "tech-sixth": "Figma"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "experience": [
+    {
+      "id": 3,
+      "page-title": "Experience",
+      "job-title": "Design Engineer",
+      "job-titile-second": "Web Developer",
+      "company": "Tata Technologies",
+      "location": "Brasov, Romania",
+      "duration": "June 2018 - September 2018",
+      "duration-second": "November 2019 - April 2020",
+      "duration-third": "November 2018 - Present",
+      "job-description": "Creating the 3D models and the drawings for the cylindrical roller bearings in CREO 3. Creating and managing the structure of the bearing in PTC Windchill.Checking the drawings for incorrect dimensions, geometric tolerances, standards and notes.Creating the Change folders in SAP.",
+      "job-description-second": "HTML, CSS, GITHUB, JavaScript, DOM Manipulation, JQuery, OOP, ES6, React, JSON.",
+      "job-description-third": "Attending the daily meetings, with our clients from the United States, to discuss about the new and ongoing projects. Offering solutions to fit the needs of our client.Managing my ongoing projects."
+    }
+  ]
 }
