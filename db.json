@@ -48,6 +48,7 @@
   ],
   "contact": [
     {
+      "id": 1,
       "description": "I am currently looking for a Junios Web Developer position, or projects.",
       "phone": "+40746144605",
       "email":"ciobotaruva@gmail.com"
@@ -55,6 +56,7 @@
   ],
    "footer": [
     {
+      "id": 1,
       "description":"D&B By Ciobotaru Valentin - Adrian"
     }
   ]
