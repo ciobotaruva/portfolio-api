@@ -21,6 +21,16 @@
       "tech_eighth": "Node.js"
     }
   ],
+  "portfolio":[
+    {
+      "id": 1,
+      "name":"Weather Application",
+      "description": " A web application for visualizing the weather conditions in a certaing city.",
+      "tech": "React  Web API",
+      "gitlink": "https://github.com/ciobotaruva/weather-app",
+      "previewlink": "https://ciobotaruva.github.io/weather-app/"
+    }
+  ],
   "experience": [
     {
       "id": 1,
