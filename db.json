@@ -25,6 +25,7 @@
     {
       "_id": 1,
       "name":"Weather Application",
+      "image":"https://github.com/ciobotaruva/cva-portfolio/blob/master/src/Componets/Images/project_one.png?raw=true",
       "description": " A web application for visualizing the weather conditions in a certaing city.",
       "tech": "React  Web API",
       "gitlink": "https://github.com/ciobotaruva/weather-app",
@@ -33,6 +34,7 @@
     {
       "_id": 2,
       "name":"Shooping Application",
+      "image":"https://github.com/ciobotaruva/cva-portfolio/blob/master/src/Componets/Images/project_one.png?raw=true",
       "description": " Shopping Application with full CRUD functionality.",
       "tech": "React  Web API Hooks Login Register",
       "gitlink": "https://github.com/ciobotaruva/weather-app",
