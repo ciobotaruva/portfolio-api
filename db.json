@@ -1,7 +1,7 @@
 {
   "home": [
     {
-      "id": 1,
+      "_id": 1,
       "name": "Ciobotaru",
       "last_name": "Valentin - Adrian",
       "job": "Web Developer",
@@ -10,7 +10,7 @@
   ],
   "about": [
     {
-      "id": 2,
+      "_id": 1,
       "page_title": "About",
       "tech": "JavaScript(ES6)",
       "tech_second": "React",
@@ -23,17 +23,25 @@
   ],
   "portfolio":[
     {
-      "id": 1,
+      "_id": 1,
       "name":"Weather Application",
       "description": " A web application for visualizing the weather conditions in a certaing city.",
       "tech": "React  Web API",
+      "gitlink": "https://github.com/ciobotaruva/weather-app",
+      "previewlink": "https://ciobotaruva.github.io/weather-app/"
+    },
+    {
+      "_id": 2,
+      "name":"Shooping Application",
+      "description": " Shopping Application with full CRUD functionality.",
+      "tech": "React  Web API Hooks Login Register",
       "gitlink": "https://github.com/ciobotaruva/weather-app",
       "previewlink": "https://ciobotaruva.github.io/weather-app/"
     }
   ],
   "experience": [
     {
-      "id": 1,
+      "_id": 1,
       "job_title": "Design Engineer",
       "company": "Tata Technologies",
       "location": "Brasov, Romania",
@@ -41,7 +49,7 @@
       "job_description": "Attending the daily meetings, with our clients from the United States, to discuss about the new and ongoing projects.\nOffering solutions to fit the needs of our client.\nManaging my ongoing projects."
     },
     {
-      "id": 2,
+      "_id": 2,
       "job_title": "Web Developer",
       "company": "Informal School of IT",
       "duration": "November 2019 - April 2020",
@@ -49,7 +57,7 @@
       "job_description": "HTML, CSS, GITHUB, JavaScript, DOM Manipulation, JQuery, OOP, ES6, React, JSON."
     },
     {
-      "id": 3,
+      "_id": 3,
       "job_title": "Design Engineer",
       "company": "S.C. Schaeffler Romania S.R.L",
       "duration": "June 2018 - September 2018",
@@ -59,7 +67,7 @@
   ],
   "contact": [
     {
-      "id": 1,
+      "_id": 1,
       "description": "I am currently looking for a Junios Web Developer position, or projects. Send a message or contact me at the phone number listed below, I will get back to you immediatly.",
       "phone": "+40746144605",
       "email":"ciobotaruva@gmail.com"
