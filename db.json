@@ -47,24 +47,21 @@
       "job_title": "Design Engineer",
       "company": "Tata Technologies",
       "location": "Brasov, Romania",
-      "duration": "November 2018 - Present",
-      "job_description": "Attending the daily meetings, with our clients from the United States, to discuss about the new and ongoing projects.\nOffering solutions to fit the needs of our client.\nManaging my ongoing projects."
+      "duration": "November 2018 - Present"
     },
     {
       "_id": 2,
       "job_title": "Web Developer",
       "company": "Informal School of IT",
       "duration": "November 2019 - April 2020",
-      "location": "Brasov, Romania",
-      "job_description": "HTML, CSS, GITHUB, JavaScript, DOM Manipulation, JQuery, OOP, ES6, React, JSON."
+      "location": "Brasov, Romania"
     },
     {
       "_id": 3,
       "job_title": "Design Engineer",
       "company": "S.C. Schaeffler Romania S.R.L",
       "duration": "June 2018 - September 2018",
-      "location": "Brasov, Romania",
-      "job_description": "Creating the 3D models and the drawings for the cylindrical roller bearings in CREO 3.\nCreating and managing the structure of the bearing in PTC Windchill.\nChecking the drawings for incorrect dimensions, geometric tolerances, standards and notes.\nCreating the Change folders in SAP."
+      "location": "Brasov, Romania"
     }
   ],
   "contact": [
