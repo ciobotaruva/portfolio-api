@@ -39,24 +39,6 @@
       "tech": "React  Web API Hooks Login Register",
       "gitlink": "https://github.com/ciobotaruva/weather-app",
       "previewlink": "https://ciobotaruva.github.io/weather-app/"
-    },
-    {
-      "_id": 3,
-      "name":"Shooping Application",
-      "image":"https://github.com/ciobotaruva/cva-portfolio/blob/master/src/Componets/Images/project_one.png?raw=true",
-      "description": " Shopping Application with full CRUD functionality.",
-      "tech": "React  Web API Hooks Login Register",
-      "gitlink": "https://github.com/ciobotaruva/weather-app",
-      "previewlink": "https://ciobotaruva.github.io/weather-app/"
-    },
-    {
-      "_id": 4,
-      "name":"Shooping Application",
-      "image":"https://github.com/ciobotaruva/cva-portfolio/blob/master/src/Componets/Images/project_one.png?raw=true",
-      "description": " Shopping Application with full CRUD functionality.",
-      "tech": "React  Web API Hooks Login Register",
-      "gitlink": "https://github.com/ciobotaruva/weather-app",
-      "previewlink": "https://ciobotaruva.github.io/weather-app/"
     }
   ],
   "experience": [
