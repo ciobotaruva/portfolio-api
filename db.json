@@ -27,7 +27,7 @@
       "name":"Weather Application",
       "image":"https://github.com/ciobotaruva/cva-portfolio/blob/master/src/Componets/Images/weather_app.jpg?raw=true",
       "description": " A web application for visualizing the weather conditions in a certaing city.",
-      "tech": "React  Web API",
+      "tech": "#React  #Web API",
       "gitlink": "https://github.com/ciobotaruva/weather-app",
       "previewlink": "https://ciobotaruva.github.io/weather-app/"
     },
@@ -36,9 +36,9 @@
       "name":"Shooping Application",
       "image":"https://github.com/ciobotaruva/cva-portfolio/blob/master/src/Componets/Images/project_one.png?raw=true",
       "description": " Shopping Application with full CRUD functionality.",
-      "tech": "React  Web API Hooks Login Register",
+      "tech": "#React  #Web API #Hooks #Login #Register",
       "gitlink": "https://github.com/ciobotaruva/weather-app",
-      "previewlink": "https://ciobotaruva.github.io/weather-app/"
+      "previewlink": "Not available yet"
     }
   ],
   "experience": [
