@@ -33,12 +33,12 @@
     },
     {
       "_id": 2,
-      "name":"Shooping Application",
+      "name":"CRUD Movie Application",
       "image":"https://github.com/ciobotaruva/cva-portfolio/blob/master/src/Componets/Images/project_one.png?raw=true",
-      "description": " Shopping Application with full CRUD functionality.",
-      "tech": "#React  #Web API #Hooks #Login #Register",
-      "gitlink": "https://github.com/ciobotaruva/weather-app",
-      "previewlink": "Not available yet"
+      "description": "CRUD Application writen in pure JavaScript.",
+      "tech": "#Javascript #DOM Manipulation #CRUD #Login #Form Validation",
+      "gitlink": "https://github.com/ciobotaruva/crud-movie-application.github.io",
+      "previewlink": "https://ciobotaruva.github.io/crud-movie-application.github.io/"
     }
   ],
   "experience": [
